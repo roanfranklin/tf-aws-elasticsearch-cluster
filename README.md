@@ -18,8 +18,11 @@ terraform apply
 ### ElasticSearch
 
  Versão: 7.7
+
  Tipo de instância: r5.large.elasticsearch
+
  Qtd. de instâncias: 3
+ 
  Domínio: demo-elk-domain
 
 ### Ingress
